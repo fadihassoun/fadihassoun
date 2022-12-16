@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developping a few Android applications
+- 🌱 I’m currently studying for an MS in Computer Science with Software Engineering  
+- 👯 I’m looking to collaborate on Android apps with Java or Kotlin, and Websie development and design.
+
 <!--
 **fadihassoun/fadihassoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
