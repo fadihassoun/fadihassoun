@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developping Android applications
+- 🔭 I’m interested in developping Android applications
 - 🌱 I’m also currently studying for an MS in Computer Science with Software Engineering  
 - 👯 I’m looking to collaborate on Android apps with Java or Kotlin, as well as Websie development and design.
 
