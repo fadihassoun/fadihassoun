@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m interested in developping Java and Android applications
-- 🌱 I’m also currently studying for an MS in Computer Science with Software Engineering  
-- 👯 I’m looking to collaborate on Android apps with Java or Kotlin, as well as Websie development and design.
+- 🔭 I’m interested in extracting insights from data and programming applications that can automate data manipulation and visualisation 
 
 <!--
 **fadihassoun/fadihassoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
